@@ -6,4 +6,4 @@ section{width: 90%; height: 300px;margin:0 auto;}
 article{width: 30%;height: 200px;float: left;border: thin solid rgb(0, 0, 0);border-radius: 5px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;padding: 30px 5px 0 5px;margin: 0 12px 30px 12px;}
 p{color: rgb(0, 0, 0);font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 nav li{list-style-type: none;}
-table{text-align: center;margin: 0 auto;}
+p{margin-left: 50px;}
